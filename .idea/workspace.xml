@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c393321-91e8-4232-ada6-8edd952ed3c1" name="Changes" comment="Training_Model.py is fully updated">
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29EXg3HP3akuGrbjfIUbGnJDlxS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Experimental Space\Flight Price Prediction_MLOps\Data" />
+      <recent name="D:\Experimental Space\Flight Price Prediction_MLOps\Data\Prediction_Data\Prediction_Raw_Files_Validated\Good_Raw" />
+      <recent name="D:\Experimental Space\Flight Price Prediction_MLOps\Data\Training_Data\Training_File_From_DB" />
+      <recent name="D:\Experimental Space\Flight Price Prediction_MLOps\Data\Training_Data\Training_Raw_Files_Validated\Good_Raw" />
+      <recent name="D:\Experimental Space\Flight Price Prediction_MLOps\Data\Training_Data\Training_Raw_Files_Validated\Bad_Raw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Experimental Space\Flight Price Prediction_MLOps" />
+      <recent name="D:\Experimental Space\Flight Price Prediction_MLOps\Logs\Data_Info" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Read_Yaml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flight Price Prediction_MLOps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Read_Yaml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flight Price Prediction_MLOps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flight Price Prediction_MLOps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Read_Yaml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c393321-91e8-4232-ada6-8edd952ed3c1" name="Changes" comment="" />
+      <created>1652679325824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652679325824</updated>
+    </task>
+    <task id="LOCAL-00001" summary="nil">
+      <created>1652682947134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652682947134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test.py added">
+      <created>1652682999412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652682999412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test.py removed">
+      <created>1652683049259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652683049259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated">
+      <created>1652684089315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652684089315</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code_structure_updated">
+      <created>1652684114237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652684114237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gitignore added">
+      <created>1652685674343</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652685674343</updated>
+    </task>
+    <task id="LOCAL-00007" summary="paths are updated as per folder structure">
+      <created>1652688378733</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652688378733</updated>
+    </task>
+    <task id="LOCAL-00008" summary="paths are updated as per folder structure">
+      <created>1652688445088</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652688445088</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Raw_Validation.py updated and tested successfully">
+      <created>1652728099843</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652728099844</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Data_Type_vValidation.py database_connection method is updated">
+      <created>1652770171162</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652770171162</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Data_Type_vValidation.py database_connection method is updated">
+      <created>1652770192975</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652770192975</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Data_Type_vValidation.py  is fully updated">
+      <created>1652773743926</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652773743926</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Training_Validation_Insertion.py  is fully updated">
+      <created>1652776794209</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652776794209</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Training_Validation_Insertion.py  is fully updated">
+      <created>1652777108290</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652777108290</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Preprocessing.py is fully updated">
+      <created>1652799649668</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652799649668</updated>
+    </task>
+    <task id="LOCAL-00016" summary="File_Methods.py.py is fully updated">
+      <created>1652800242506</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1652800242506</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Clustering.py is fully updated">
+      <created>1652801183287</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652801183287</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Tuner.py is fully updated">
+      <created>1652803680502</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652803680502</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Training_Model.py is fully updated">
+      <created>1652810318076</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652810318076</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nil" />
+    <MESSAGE value="test.py added" />
+    <MESSAGE value="test.py removed" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="Code_structure_updated" />
+    <MESSAGE value="gitignore added" />
+    <MESSAGE value="paths are updated as per folder structure" />
+    <MESSAGE value="Raw_Validation.py updated and tested successfully" />
+    <MESSAGE value="Data_Type_vValidation.py database_connection method is updated" />
+    <MESSAGE value="Data_Type_vValidation.py  is fully updated" />
+    <MESSAGE value="Training_Validation_Insertion.py  is fully updated" />
+    <MESSAGE value="Preprocessing.py is fully updated" />
+    <MESSAGE value="File_Methods.py.py is fully updated" />
+    <MESSAGE value="Clustering.py is fully updated" />
+    <MESSAGE value="Tuner.py is fully updated" />
+    <MESSAGE value="Training_Model.py is fully updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Training_Model.py is fully updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/Tuner.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/Predict_From_Model.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Src/Train_model_MLFlow.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

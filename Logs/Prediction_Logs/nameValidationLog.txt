@@ -1,0 +1,6 @@
+2022-07-15/14:21:54		Valid File name!! File moved to GoodRaw Folder :: data_2018.xlsx
+2022-07-15/14:21:54		Invalid File Name!! File moved to Bad Raw Folder :: Data_2019 (2).xlsx
+2022-07-15/14:21:54		Invalid File Name!! File moved to Bad Raw Folder :: DATA_2019 (3).xlsx
+2022-07-15/14:23:21		Valid File name!! File moved to GoodRaw Folder :: data_2018.xlsx
+2022-07-15/14:23:21		Invalid File Name!! File moved to Bad Raw Folder :: Data_2019 (2).xlsx
+2022-07-15/14:23:21		Invalid File Name!! File moved to Bad Raw Folder :: DATA_2019 (3).xlsx

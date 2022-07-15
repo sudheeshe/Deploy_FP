@@ -1,0 +1,6 @@
+2022-07-15/14:21:54		Start of Validation on files for prediction!!
+2022-07-15/14:21:55		Raw Data Validation Complete!!
+2022-07-15/14:21:55		Creating Prediction_Input_data on the basis of given schema!!!
+2022-07-15/14:23:21		Start of Validation on files for prediction!!
+2022-07-15/14:23:21		Raw Data Validation Complete!!
+2022-07-15/14:23:21		Creating Prediction_Input_data on the basis of given schema!!!

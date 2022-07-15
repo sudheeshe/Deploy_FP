@@ -1,0 +1,4 @@
+2022-07-15/14:21:54		LengthOfYearStampInFile : 4		NumberOfColumns: 10
+
+2022-07-15/14:23:21		LengthOfYearStampInFile : 4		NumberOfColumns: 10
+
